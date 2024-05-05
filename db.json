@@ -1,0 +1,17 @@
+{
+  "nannies": [
+    { "id": 1, "name": "Mary", "age": 30, "experience": "5 years", "availability": "full-time" },
+    { "id": 2, "name": "John", "age": 25, "experience": "3 years", "availability": "part-time" },
+    { "id": 3, "name": "Alice", "age": 35, "experience": "7 years", "availability": "full-time" }
+  ],
+  "jobs": [
+    { "id": 1, "title": "Babysitting", "description": "Looking for a nanny to take care of a newborn baby", "nannyId": 1 },
+    { "id": 2, "title": "Housekeeping", "description": "Need help with cleaning and organizing the house", "nannyId": 2 }
+  ],
+  "users": [
+    { "id": 1, "username": "parent1", "email": "parent1@example.com", "role": "parent" },
+    { "id": 2, "username": "parent2", "email": "parent2@example.com", "role": "parent" },
+    { "id": 3, "username": "nanny1", "email": "nanny1@example.com", "role": "nanny" },
+    { "id": 4, "username": "nanny2", "email": "nanny2@example.com", "role": "nanny" }
+  ]
+}
