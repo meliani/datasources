@@ -1,8 +1,8 @@
 {
   "nannies": [
-    { "id": 1, "name": "Mary", "age": 30, "experience": "5", "availability": "full-time" },
-    { "id": 2, "name": "John", "age": 25, "experience": "3", "availability": "part-time" },
-    { "id": 3, "name": "Alice", "age": 35, "experience": "7", "availability": "full-time" }
+    { "id": 1, "name": "Saadia", "age": 30, "experience": "5", "availability": "full-time" },
+    { "id": 2, "name": "Ahlam", "age": 25, "experience": "3", "availability": "part-time" },
+    { "id": 3, "name": "Hajar", "age": 35, "experience": "7", "availability": "full-time" }
   ],
   "jobs": [
     { "id": 1, "title": "Babysitting", "description": "Looking for a nanny to take care of a newborn baby", "nannyId": 1 },
